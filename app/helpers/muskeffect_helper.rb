@@ -1,0 +1,2 @@
+module MuskeffectHelper
+end
